@@ -1,0 +1,14 @@
+.hero_bg{
+position: relative;
+background-color: black;
+}
+.hero_img{
+
+    opacity: 0.5;
+}
+.hero_content{
+    position: absolute;
+    top: 30%;
+    
+}
+
