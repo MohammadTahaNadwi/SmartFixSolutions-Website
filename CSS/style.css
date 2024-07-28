@@ -1,6 +1,12 @@
+
+.blue-bg{
+    background-color: #0c243c;
+}
+.text-blue{
+    color: #0c243c;
+}
 .hero_bg{
 position: relative;
-background-color: black;
 }
 .hero_img{
 
@@ -11,4 +17,3 @@ background-color: black;
     top: 30%;
     
 }
-
