@@ -2,6 +2,21 @@
 .blue-bg{
     background-color: #0c243c;
 }
+h1,h2,h3,h4,h5,h6,.fs-1,.fs-2,.fs-3,.fs-4,.fs-5,.fs-6{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+
+}
+*{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
 .text-blue{
     color: #0c243c;
 }
@@ -15,5 +30,11 @@ position: relative;
 .hero_content{
     position: absolute;
     top: 30%;
+    
+}
+@media (min-width: 768px) { 
+ h6{
+    font-size: x-small;
+ }
     
 }
