@@ -9,6 +9,12 @@ h1,h2,h3,h4,h5,h6,.fs-1,.fs-2,.fs-3,.fs-4,.fs-5,.fs-6{
   font-style: normal;
 
 }
+.imgTest{
+    background-image: url("../Images/Cyber-HeroSection.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 *{
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
